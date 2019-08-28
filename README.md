@@ -35,6 +35,4 @@ Après inscription et authentification à l'application, l'utilisateur aura la p
 
 lien vers le repository du TP1 : [ici](https://github.com/Ragatzino/2019Ensai_complement-info_TP1)
 
-# Me contacter
-
-<a href="mailto:antoine.brunetti@insee.fr">Me contacter</a>
+# <a href="mailto:antoine.brunetti@insee.fr">Me contacter</a>

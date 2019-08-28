@@ -32,7 +32,7 @@ Après inscription et authentification à l'application, l'utilisateur aura la p
 - Optimisation : Création d'un système de score permettant de relier des personnes de préférences similaires ensemble ( cc: [problème du voyageur de commerce](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_voyageur_de_commerce) )
 
 # TP1
- [Petit point avant le tp ](https://ragatzino.github.io/Projet2A-Presentation/tp1)
-lien vers le repository du TP1 : [ici](https://github.com/Ragatzino/2019Ensai_complement-info_TP1)
+- [Petit point avant le tp ](https://ragatzino.github.io/Projet2A-Presentation/tp1)
+- lien vers le repository du TP1 : [ici](https://github.com/Ragatzino/2019Ensai_complement-info_TP1)
 
 # <a href="mailto:antoine.brunetti@insee.fr">Me contacter</a>

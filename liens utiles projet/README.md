@@ -16,7 +16,6 @@
 ## Liens utiles
 
 - [Bonne fiche d'uml (en anglais toutefois)](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf?fbclid=IwAR2_738IPFUFQOxmvudDr2M33h3sZ3DNyLW6BmlVPlgiPpfEtoItGh-PhDI)
--
 
 ## Différents outils pour faciliter la modélisation
 

@@ -14,7 +14,7 @@
 # Modélisation
 
 ## Liens utiles
-
+- [Template a copier coller Diagramme CU](https://drive.google.com/file/d/1FaoRtTNtoQ0K6kz3fT5XKXIci0xlrU3-/view?usp=sharing)
 - [Bonne fiche d'uml (en anglais toutefois)](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf?fbclid=IwAR2_738IPFUFQOxmvudDr2M33h3sZ3DNyLW6BmlVPlgiPpfEtoItGh-PhDI)
 
 ## Différents outils pour faciliter la modélisation

@@ -16,12 +16,11 @@
 ## Liens utiles
 - [Template a copier coller Diagramme CU](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1FaoRtTNtoQ0K6kz3fT5XKXIci0xlrU3-%26export%3Ddownload)
 - [Bonne fiche d'uml (en anglais toutefois)](https://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf?fbclid=IwAR2_738IPFUFQOxmvudDr2M33h3sZ3DNyLW6BmlVPlgiPpfEtoItGh-PhDI)
-
+- [Note exhaustive explicative claire sur le diagramme de classes](https://www.lucidchart.com/pages/fr/tutoriel-sur-les-diagrammes-de-classes)
 ## Différents outils pour faciliter la modélisation
 
 - [Diagrammes de gantt](https://online.officetimeline.com/)
 - [UML](https://www.genmymodel.com/fr)
-
 # Développement
 
 ## Liens utiles

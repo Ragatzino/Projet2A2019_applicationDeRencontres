@@ -41,7 +41,7 @@ Après inscription et authentification à l'application, l'utilisateur aura la p
 
 # TP3
 - [Rappels globaux cours + anciens tp](https://ragatzino.github.io/Projet2A-Presentation/tp3)
-- lien vers le repository du tp3 : [ici](https://github.com/HealerMikado/2019Ensai_complement-info_TP3)
+- lien vers le repository du tp3 : [ici](https://github.com/HealerMikado/2019Ensai_complement_info_TP3)
 
 # <a href="mailto:antoine.brunetti@insee.fr">Me contacter</a>
 

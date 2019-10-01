@@ -24,9 +24,9 @@
 # Développement
 ## API Foursquare 
 Pour pouvoir utiliser l'API foursquare, même principe que pour Rennes, il faut vous identifier. Pour cela, il faut aller sur https://developer.foursquare.com/ (1 par groupe suffit) et créer un compte avec un mail valide.
-Pour ensuite pouvoir utiliser un get sur les tacos a proximité de Rennes par exemple : 
+Pour ensuite pouvoir utiliser un get sur les parcs dans Paris par exemple : 
 ``` 
-https://api.foursquare.com/v2/venues/search?ll=48.1173,1.6778&client_id=*IDCLIENTDUSITE*&client_secret=*IDSECRETSITE*&v=20191001&query=tacos
+https://api.foursquare.com/v2/venues/search?ll=48.8566,2.3522&client_id=*IDCLIENTDUSITE*&client_secret=*IDSECRETSITE*&v=20191001&query=parc
 ``` 
 
 ## Liens utiles

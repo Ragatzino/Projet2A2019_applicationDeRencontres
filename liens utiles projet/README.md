@@ -30,7 +30,7 @@ https://api.foursquare.com/v2/venues/search?ll=48.8566,2.3522&client_id=*IDCLIEN
 ``` 
 
 ## Liens utiles
-- [aide récapitulative des tps(https://github.com/Ragatzino/Projet2A2019_applicationDeRencontres/tree/master/aideDev)
+- [aide récapitulative des tps](https://github.com/Ragatzino/Projet2A2019_applicationDeRencontres/tree/master/aideDev)
 - [Exemples de patrons de conception en python](https://www.toptal.com/python/python-design-patterns)
 - [Raccourcis Pycharm](https://www.shortcutfoo.com/app/dojos/pycharm-win/cheatsheet)
 

@@ -1,6 +1,7 @@
 # Aide projet
-
+<details><summary>
 ## PostgreSQL
+	</summary>
 ### Create Table :
 ```
 CREATE TABLE addresses (
@@ -19,9 +20,10 @@ INSERT INTO addresses (user_id, street, city, state) VALUES
   (2, '2 Elm Street', 'San Francisco', 'CA'),
   (3, '3 Main Street', 'Boston', 'MA');
 ```
-
+</details>
+<details><summary>
 ## TP 1 - DAO : utilisation de psycopg2
-
+	</summary>
 - La couche DAO est celle où vous implémentez les méthodes de persistance des données. Pour faire simple, dans notre cas : on implémente toutes les méthodes qui exécutent les requêtes SQL pour modifier notre BDD.
 
 - Pour les explications à suivre, il vaut mieux se référer au code du TP 4, car c'est le code que vous utiliserez pour débuter le projet. Par exemple avoir la classe compte_dao.py sous les yeux en même temps pour mieux comprendre.
@@ -97,8 +99,10 @@ finally:
 
 - Plus d'informations sur psycopg2, en particulier sur [l'objet cursor](http://initd.org/psycopg/docs/cursor.html)
 
+</details>
+<details><summary>
 ## TP2 - Webservices : récupération et envoi de données
-
+	</summary>
 - Les webservices sont des ressources accessibles via des requêtes HTTP. Ils fonctionnent comme des boites noires : Ils disposent d'une API (application programming interface) pour laquelle l'on ne connait que l'entrée/sortie (Boite Noire)
 
 - Par différentes requêtes (GET et POST pour la plupart), vous pouvez récupérer des données et échanger avec un serveur distant par sa couche Controller. Ces requêtes peuvent avoir différents type : changer l'état de la base de données par transmission de l'information coté DAO, récupération de l'état de la base de données, ou encore récupération de l'état du serveur par exemple (Healthcheck).
@@ -387,9 +391,10 @@ for result in sorted(
         medalTotals.items(), key=lambda x:x[1],reverse=True):
         print '%s:%s' % result
 ```
-
+</details>
+<details><summary>
 ## TP 4 - Git : étapes de configuration sur les postes
-
+	</summary>
 ### Générer sa clef SSH (reprise de la configuration partie 3 du TP)
 
 - Lancez Git bash (Menu démarrer > tapez git bash dans la barre de recherche).
@@ -435,3 +440,5 @@ ssh-keygen -t rsa -b 2048
 - Dans gitlab, collez la clé puis cliquez sur Add key. La clé ssh est conservée. Vous n’aurez donc à la configurer qu’une fois à l’Ensai. Par contre si vous travaillez avec un ordinateur perso, il faudra créer une clé ssh dessus (et l’ajouter sur gitlab).
 
 - Une fois cette configuration effectuée, vous pouvez reprendre le fil du TP.
+</details>
+

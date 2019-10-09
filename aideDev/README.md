@@ -404,7 +404,8 @@ for result in sorted(
 <details><summary>
  TP 4 - Git : étapes de configuration sur les postes
 	</summary>
-	<p>
+
+<p>
 ### Générer sa clef SSH (reprise de la configuration partie 3 du TP)
 
 - Lancez Git bash (Menu démarrer > tapez git bash dans la barre de recherche).

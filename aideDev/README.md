@@ -1,7 +1,8 @@
 # Aide projet
 <details><summary>
-## PostgreSQL
+ PostgreSQL
 	</summary>
+	<p>
 ### Create Table :
 ```
 CREATE TABLE addresses (
@@ -98,11 +99,12 @@ finally:
 - Pour un exemple de requête faisant intervenir une table d'association, voir la méthode find_all_agent_with_avengers de agent_dao du TP 1.
 
 - Plus d'informations sur psycopg2, en particulier sur [l'objet cursor](http://initd.org/psycopg/docs/cursor.html)
-
+</p>
 </details>
 <details><summary>
-## TP2 - Webservices : récupération et envoi de données
+TP2 - Webservices : récupération et envoi de données
 	</summary>
+	<p>
 - Les webservices sont des ressources accessibles via des requêtes HTTP. Ils fonctionnent comme des boites noires : Ils disposent d'une API (application programming interface) pour laquelle l'on ne connait que l'entrée/sortie (Boite Noire)
 
 - Par différentes requêtes (GET et POST pour la plupart), vous pouvez récupérer des données et échanger avec un serveur distant par sa couche Controller. Ces requêtes peuvent avoir différents type : changer l'état de la base de données par transmission de l'information coté DAO, récupération de l'état de la base de données, ou encore récupération de l'état du serveur par exemple (Healthcheck).
@@ -199,9 +201,12 @@ from flask import Flask, request
 """ retour par defaut (avec import json préalable) """
  return json.dumps({"result": "success"})
 ```
-
-## TP 3 - Formats de données - Web Scraping
-
+</p>
+</details>
+<details><summary>
+ TP 3 - Formats de données - Web Scraping
+	</summary>
+	<p>
 Il existe différents types de formats de données structurés non SQL, ils sont principalement utilisés pour l'échange de données et la sauvegarde de données
 
 ### Différents formats de données
@@ -391,10 +396,12 @@ for result in sorted(
         medalTotals.items(), key=lambda x:x[1],reverse=True):
         print '%s:%s' % result
 ```
+</p>
 </details>
 <details><summary>
-## TP 4 - Git : étapes de configuration sur les postes
+ TP 4 - Git : étapes de configuration sur les postes
 	</summary>
+	<p>
 ### Générer sa clef SSH (reprise de la configuration partie 3 du TP)
 
 - Lancez Git bash (Menu démarrer > tapez git bash dans la barre de recherche).
@@ -440,5 +447,6 @@ ssh-keygen -t rsa -b 2048
 - Dans gitlab, collez la clé puis cliquez sur Add key. La clé ssh est conservée. Vous n’aurez donc à la configurer qu’une fois à l’Ensai. Par contre si vous travaillez avec un ordinateur perso, il faudra créer une clé ssh dessus (et l’ajouter sur gitlab).
 
 - Une fois cette configuration effectuée, vous pouvez reprendre le fil du TP.
+</p>
 </details>
 

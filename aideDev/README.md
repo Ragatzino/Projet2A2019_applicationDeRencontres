@@ -4,7 +4,7 @@
 	</summary>
 
 
- Create Table :
+### Create Table :
 ```
 CREATE TABLE addresses (
   user_id int, -- Both a primary and foreign key

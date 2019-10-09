@@ -2,7 +2,8 @@
 <details><summary>
  PostgreSQL
 	</summary>
-	<p>
+
+<p>
 ### Create Table :
 ```
 CREATE TABLE addresses (
@@ -21,10 +22,12 @@ INSERT INTO addresses (user_id, street, city, state) VALUES
   (2, '2 Elm Street', 'San Francisco', 'CA'),
   (3, '3 Main Street', 'Boston', 'MA');
 ```
+</p>
 </details>
 <details><summary>
-## TP 1 - DAO : utilisation de psycopg2
+TP 1 - DAO : utilisation de psycopg2
 	</summary>
+<p>
 - La couche DAO est celle où vous implémentez les méthodes de persistance des données. Pour faire simple, dans notre cas : on implémente toutes les méthodes qui exécutent les requêtes SQL pour modifier notre BDD.
 
 - Pour les explications à suivre, il vaut mieux se référer au code du TP 4, car c'est le code que vous utiliserez pour débuter le projet. Par exemple avoir la classe compte_dao.py sous les yeux en même temps pour mieux comprendre.

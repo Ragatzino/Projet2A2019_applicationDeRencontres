@@ -4,7 +4,7 @@
 	</summary>
 
 <p>
-### Create Table :
+<h3> Create Table :</h3>
 ```
 CREATE TABLE addresses (
   user_id int, -- Both a primary and foreign key

@@ -3,8 +3,8 @@
  PostgreSQL
 	</summary>
 
-<p>
-<h3> Create Table :</h3>
+	<p>
+ Create Table :
 ```
 CREATE TABLE addresses (
   user_id int, -- Both a primary and foreign key
@@ -22,7 +22,7 @@ INSERT INTO addresses (user_id, street, city, state) VALUES
   (2, '2 Elm Street', 'San Francisco', 'CA'),
   (3, '3 Main Street', 'Boston', 'MA');
 ```
-</p>
+	</p>
 </details>
 <details><summary>
 TP 1 - DAO : utilisation de psycopg2

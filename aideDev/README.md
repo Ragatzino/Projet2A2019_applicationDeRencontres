@@ -455,7 +455,7 @@ ssh-keygen -t rsa -b 2048
 </details>
 
 <details><summary>
-[Embryon de projet exemple](https://github.com/Ragatzino/ProjetExemplePython)
+<a href="https://github.com/Ragatzino/ProjetExemplePython">Embryon de projet exemple</a>
 	</summary>
 
 

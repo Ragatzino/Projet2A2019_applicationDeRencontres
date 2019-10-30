@@ -454,3 +454,10 @@ ssh-keygen -t rsa -b 2048
 </p>
 </details>
 
+<details><summary>
+[Embryon de projet exemple](https://github.com/Ragatzino/ProjetExemplePython)
+	</summary>
+
+
+</details>
+

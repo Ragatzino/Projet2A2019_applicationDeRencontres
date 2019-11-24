@@ -37,4 +37,8 @@ https://api.foursquare.com/v2/venues/search?ll=48.8566,2.3522&client_id=*IDCLIEN
 
 # Soutenance
 
-Work in progress
+- Ne pas oublier de remplir la fiche de temps (sur le travail abouti chaque semaine ) !
+- Pensez a mettre en avant le projet et pas simplement l'application 
+- Dépot a copier si vous voulez faire de belles présentations : https://github.com/hakimel/reveal.js/ 
+  - cliquez sur FORK
+  - puis modifiez index.html en suivant le tutoriel qui est dans le fichier a la racine Readme.md
